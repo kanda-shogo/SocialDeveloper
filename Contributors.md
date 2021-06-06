@@ -6,6 +6,7 @@ studentID - username <br/>
 1911404 - Takuro Niitsuma<br/>
 1911401 - Yuri UENO<br/>
 1911405 - Joji Yanagii<br/>
+2111089 - Shogo Kanda<br/>
 1911415 - Pabitra LENKA<br/>
 2011025 - Toyomi Ishida<br/>
 2011302 - CHI ZIHAO<br/>
@@ -133,7 +134,6 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111030   - Akihito Ihara <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa  <br/>
-2111089 - Shogo Kanda<br/>
 2111080 - Shuhei Kayawari <br/>
 2111225 - Takara Fujisawa <br/>
 2111229 - Ryotaro Funai <br/>

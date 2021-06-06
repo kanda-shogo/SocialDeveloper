@@ -58,7 +58,7 @@ studentID - username <br/>
 2111203   - Akio Hayakawa<br/>
 2011140   - Naomichi Shimada<br/>
 2011017   - Ayano Ikegami<br/>
-1911413   - Zhiwei Gao<br/> 
+1911413   - Zhiwei Gao<br/>
 2111044   - Keita Uchida<br/>
 1911413   - Zhiwei Gao<br/>
 2011297   - Kotaro Yoshimoto<br/>
@@ -133,6 +133,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111030   - Akihito Ihara <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa  <br/>
+2111089 - Shogo Kanda<br/>
 2111080 - Shuhei Kayawari <br/>
 2111225 - Takara Fujisawa <br/>
 2111229 - Ryotaro Funai <br/>
